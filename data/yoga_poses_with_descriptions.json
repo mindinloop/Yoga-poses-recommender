@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Big Toe Pose",
+    "sanskrit_name": "Padangusthasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ForwardBendBigToe.png",
+    "expertise_level": "Beginner",
+    "pose_type": [
+      "Standing",
+      "Forward Bend"
+    ],
+    "description": "**Big Toe Pose (Padangusthasana)**\nThis beginner standing forward bend deeply stretches hamstrings and calves, while strengthening thighs. Hinge from the hips with a long spine, engaging quadriceps. Grasp big toes, pressing heels down and drawing shoulders away from ears. Calms the mind."
+  },
+  {
+    "name": "Gorilla Pose",
+    "sanskrit_name": "Padahastasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Gorilla.png",
+    "expertise_level": "Beginner",
+    "pose_type": [
+      "Standing",
+      "Forward Bend"
+    ],
+    "description": "Gorilla Pose (Padahastasana) is a beginner standing forward bend. Deeply bend knees to slide hands under feet, palms up, toes to wrist crease, then gently straighten legs. This pose stretches hamstrings and calves, lengthens the spine, and calms the mind. Release your neck completely."
+  },
+  {
+    "name": "Bird of Paradise Pose",
+    "sanskrit_name": "Svarga Dvijasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ChairTwistBindUp_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": [
+      "Standing",
+      "Balancing"
+    ],
+    "description": "Bird of Paradise (Svarga Dvijasana) is an advanced standing balance pose. It deeply opens hips and shoulders, strengthens legs and core, and significantly improves balance and focus. Key alignment includes a strong standing leg, an extended lifted leg, and an open chest, engaging the core for stability."
+  }
+]
