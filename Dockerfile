@@ -4,6 +4,13 @@ FROM python:3.9-slim
 # 2. Working Directory: Set the directory where subsequent commands will run
 WORKDIR /app
 
+# --- ADD THIS NEW STEP ---
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential pkg-config libdbus-1-dev \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+# -----------------------
+
 # 3. Dependencies: Copy requirements first to take advantage of Docker caching
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
